@@ -1,0 +1,2813 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2015-06-03T23:09:01</date>
+  <millis>1433387341539</millis>
+  <sequence>0</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINEST</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Test message</message>
+</record>
+<record>
+  <date>2015-06-03T23:10:41</date>
+  <millis>1433387441024</millis>
+  <sequence>1</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>10</thread>
+  <message>Got request at 1433387441024</message>
+</record>
+<record>
+  <date>2015-06-03T23:10:41</date>
+  <millis>1433387441065</millis>
+  <sequence>2</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>10</thread>
+  <message>{postData=test message. Should be caught by the server, while it's running in a de-attached screen.}</message>
+</record>
+<record>
+  <date>2015-06-03T23:10:41</date>
+  <millis>1433387441098</millis>
+  <sequence>3</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>10</thread>
+  <message>{}</message>
+</record>
+<record>
+  <date>2015-06-03T23:10:41</date>
+  <millis>1433387441101</millis>
+  <sequence>4</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>10</thread>
+  <message>QID: null
+TITLE: null
+BODY: null
+CATEGORY: null
+</message>
+</record>
+<record>
+  <date>2015-06-03T23:10:41</date>
+  <millis>1433387441138</millis>
+  <sequence>5</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>10</thread>
+  <message>Response: my answer; Resources: resource1,resource2</message>
+</record>
+<record>
+  <date>2015-06-03T23:10:41</date>
+  <millis>1433387441140</millis>
+  <sequence>6</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>10</thread>
+  <message>Internal time logged: 116</message>
+</record>
+<record>
+  <date>2015-06-04T07:08:11</date>
+  <millis>1433416091170</millis>
+  <sequence>7</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>11</thread>
+  <message>Got request at 1433416091170</message>
+</record>
+<record>
+  <date>2015-06-04T07:08:11</date>
+  <millis>1433416091174</millis>
+  <sequence>8</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>11</thread>
+  <message>{postData=good morning}</message>
+</record>
+<record>
+  <date>2015-06-04T07:08:11</date>
+  <millis>1433416091180</millis>
+  <sequence>9</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>11</thread>
+  <message>{}</message>
+</record>
+<record>
+  <date>2015-06-04T07:08:11</date>
+  <millis>1433416091184</millis>
+  <sequence>10</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>11</thread>
+  <message>QID: null
+TITLE: null
+BODY: null
+CATEGORY: null
+</message>
+</record>
+<record>
+  <date>2015-06-04T07:08:11</date>
+  <millis>1433416091191</millis>
+  <sequence>11</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>11</thread>
+  <message>Response: my answer; Resources: resource1,resource2</message>
+</record>
+<record>
+  <date>2015-06-04T07:08:11</date>
+  <millis>1433416091194</millis>
+  <sequence>12</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>11</thread>
+  <message>Internal time logged: 24</message>
+</record>
+<record>
+  <date>2015-06-07T07:30:30</date>
+  <millis>1433676630607</millis>
+  <sequence>13</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>12</thread>
+  <message>Got request at 1433676630607</message>
+</record>
+<record>
+  <date>2015-06-07T07:30:30</date>
+  <millis>1433676630611</millis>
+  <sequence>14</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>12</thread>
+  <message>{}</message>
+</record>
+<record>
+  <date>2015-06-07T07:30:30</date>
+  <millis>1433676630614</millis>
+  <sequence>15</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>12</thread>
+  <message>{body=Okay, can anyone tell me why i grow alot of hair on my body so fast? im so tired of having to shave/remove them and im only 13 and all kids in my school dont even have a single body hair can someone pls help? thanks, category=Hair, title= Why am i so hairy? im only 13 and i already shaved my body 4 times? i know im in a puberty stage, but why?, qid=YA:20150607042815AAKuoDd}</message>
+</record>
+<record>
+  <date>2015-06-07T07:30:30</date>
+  <millis>1433676630617</millis>
+  <sequence>16</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>12</thread>
+  <message>QID: YA:20150607042815AAKuoDd
+TITLE:  Why am i so hairy? im only 13 and i already shaved my body 4 times? i know im in a puberty stage, but why?
+BODY: Okay, can anyone tell me why i grow alot of hair on my body so fast? im so tired of having to shave/remove them and im only 13 and all kids in my school dont even have a single body hair can someone pls help? thanks
+CATEGORY: Hair
+</message>
+</record>
+<record>
+  <date>2015-06-07T07:30:30</date>
+  <millis>1433676630620</millis>
+  <sequence>17</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>12</thread>
+  <message>Response: my answer; Resources: resource1,resource2</message>
+</record>
+<record>
+  <date>2015-06-07T07:30:30</date>
+  <millis>1433676630622</millis>
+  <sequence>18</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>12</thread>
+  <message>Internal time logged: 15</message>
+</record>
+<record>
+  <date>2015-06-07T07:33:50</date>
+  <millis>1433676830417</millis>
+  <sequence>19</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>13</thread>
+  <message>Got request at 1433676830417</message>
+</record>
+<record>
+  <date>2015-06-07T07:33:50</date>
+  <millis>1433676830420</millis>
+  <sequence>20</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>13</thread>
+  <message>{}</message>
+</record>
+<record>
+  <date>2015-06-07T07:33:50</date>
+  <millis>1433676830425</millis>
+  <sequence>21</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>13</thread>
+  <message>{body=, category=Hair, title= Guys how to get a thicker facial hair/beard? Any home remedies?, qid=YA:20150607043056AAwRtPW}</message>
+</record>
+<record>
+  <date>2015-06-07T07:33:50</date>
+  <millis>1433676830430</millis>
+  <sequence>22</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>13</thread>
+  <message>QID: YA:20150607043056AAwRtPW
+TITLE:  Guys how to get a thicker facial hair/beard? Any home remedies?
+BODY: 
+CATEGORY: Hair
+</message>
+</record>
+<record>
+  <date>2015-06-07T07:33:50</date>
+  <millis>1433676830435</millis>
+  <sequence>23</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>13</thread>
+  <message>Response: my answer; Resources: resource1,resource2</message>
+</record>
+<record>
+  <date>2015-06-07T07:33:50</date>
+  <millis>1433676830437</millis>
+  <sequence>24</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>13</thread>
+  <message>Internal time logged: 20</message>
+</record>
+<record>
+  <date>2015-06-07T07:36:48</date>
+  <millis>1433677008701</millis>
+  <sequence>25</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>14</thread>
+  <message>Got request at 1433677008701</message>
+</record>
+<record>
+  <date>2015-06-07T07:36:48</date>
+  <millis>1433677008702</millis>
+  <sequence>26</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>14</thread>
+  <message>{}</message>
+</record>
+<record>
+  <date>2015-06-07T07:36:48</date>
+  <millis>1433677008704</millis>
+  <sequence>27</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>14</thread>
+  <message>{body=, category=Hair, title= I rebounded my hair yesterday and after a week I have to attend my uncle's wedding. Can I curl my hair after a week?, qid=YA:20150607043645AAWButN}</message>
+</record>
+<record>
+  <date>2015-06-07T07:36:48</date>
+  <millis>1433677008707</millis>
+  <sequence>28</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>14</thread>
+  <message>QID: YA:20150607043645AAWButN
+TITLE:  I rebounded my hair yesterday and after a week I have to attend my uncle's wedding. Can I curl my hair after a week?
+BODY: 
+CATEGORY: Hair
+</message>
+</record>
+<record>
+  <date>2015-06-07T07:36:48</date>
+  <millis>1433677008709</millis>
+  <sequence>29</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>14</thread>
+  <message>Response: my answer; Resources: resource1,resource2</message>
+</record>
+<record>
+  <date>2015-06-07T07:36:48</date>
+  <millis>1433677008711</millis>
+  <sequence>30</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>14</thread>
+  <message>Internal time logged: 10</message>
+</record>
+<record>
+  <date>2015-06-07T07:46:27</date>
+  <millis>1433677587692</millis>
+  <sequence>31</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>15</thread>
+  <message>Got request at 1433677587692</message>
+</record>
+<record>
+  <date>2015-06-07T07:46:27</date>
+  <millis>1433677587695</millis>
+  <sequence>32</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>15</thread>
+  <message>{}</message>
+</record>
+<record>
+  <date>2015-06-07T07:46:27</date>
+  <millis>1433677587697</millis>
+  <sequence>33</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>15</thread>
+  <message>{body=For the past couple of months I've had several teeth issues. I've had two extractions and they started the work for a crown. I had all of these procedures done at separate times not all at once. Both times I had the extractions I ended up with dry socket. My dentist said that if you get dry socket once you are more likely to get it again. Well on Monday I have to go back to the dentist to finish the crown work and have another extraction as well as a cavity filled. For some reason I'm very freaked out by it all this time. The dry sockets are so painful. Does anyone have any suggestions to ease my anxiety. I'm pretty sure if I ask for the "laughing gas " they will give it to me but I'm just really dreading it all but will be glad at the same time when it's over. He usually gives me pain medication for afterwards but my body acts strange to it and I end up with a ton of energy instead of feeling sleepy. Then after a couple days I have to go back for more medicine cause the dry socket will have set in. I tend to get nauseas from the pain meds and antibiotics so I'm hoping he will write me a prescription for nausea medication too. What helps everyone else when they have a bunch of dental work done., category=Dental, title= Concerns about a dental procedure.?, qid=YA:20150607044406AAgFRLr}</message>
+</record>
+<record>
+  <date>2015-06-07T07:46:27</date>
+  <millis>1433677587701</millis>
+  <sequence>34</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>15</thread>
+  <message>QID: YA:20150607044406AAgFRLr
+TITLE:  Concerns about a dental procedure.?
+BODY: For the past couple of months I've had several teeth issues. I've had two extractions and they started the work for a crown. I had all of these procedures done at separate times not all at once. Both times I had the extractions I ended up with dry socket. My dentist said that if you get dry socket once you are more likely to get it again. Well on Monday I have to go back to the dentist to finish the crown work and have another extraction as well as a cavity filled. For some reason I'm very freaked out by it all this time. The dry sockets are so painful. Does anyone have any suggestions to ease my anxiety. I'm pretty sure if I ask for the "laughing gas " they will give it to me but I'm just really dreading it all but will be glad at the same time when it's over. He usually gives me pain medication for afterwards but my body acts strange to it and I end up with a ton of energy instead of feeling sleepy. Then after a couple days I have to go back for more medicine cause the dry socket will have set in. I tend to get nauseas from the pain meds and antibiotics so I'm hoping he will write me a prescription for nausea medication too. What helps everyone else when they have a bunch of dental work done.
+CATEGORY: Dental
+</message>
+</record>
+<record>
+  <date>2015-06-07T07:46:27</date>
+  <millis>1433677587705</millis>
+  <sequence>35</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>15</thread>
+  <message>Response: my answer; Resources: resource1,resource2</message>
+</record>
+<record>
+  <date>2015-06-07T07:46:27</date>
+  <millis>1433677587708</millis>
+  <sequence>36</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>15</thread>
+  <message>Internal time logged: 16</message>
+</record>
+<record>
+  <date>2015-06-07T07:49:30</date>
+  <millis>1433677770826</millis>
+  <sequence>37</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>16</thread>
+  <message>Got request at 1433677770826</message>
+</record>
+<record>
+  <date>2015-06-07T07:49:30</date>
+  <millis>1433677770828</millis>
+  <sequence>38</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>16</thread>
+  <message>{}</message>
+</record>
+<record>
+  <date>2015-06-07T07:49:30</date>
+  <millis>1433677770830</millis>
+  <sequence>39</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>16</thread>
+  <message>{body=, category=History, title= When the USA signed the treaty with North Vietnam in 1973, did they officially "lose" the war at that point?, qid=YA:20150607044842AAIa96F}</message>
+</record>
+<record>
+  <date>2015-06-07T07:49:30</date>
+  <millis>1433677770832</millis>
+  <sequence>40</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>16</thread>
+  <message>QID: YA:20150607044842AAIa96F
+TITLE:  When the USA signed the treaty with North Vietnam in 1973, did they officially "lose" the war at that point?
+BODY: 
+CATEGORY: History
+</message>
+</record>
+<record>
+  <date>2015-06-07T07:49:30</date>
+  <millis>1433677770835</millis>
+  <sequence>41</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>16</thread>
+  <message>Response: my answer; Resources: resource1,resource2</message>
+</record>
+<record>
+  <date>2015-06-07T07:49:30</date>
+  <millis>1433677770837</millis>
+  <sequence>42</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>16</thread>
+  <message>Internal time logged: 11</message>
+</record>
+<record>
+  <date>2015-06-07T07:55:52</date>
+  <millis>1433678152377</millis>
+  <sequence>43</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>17</thread>
+  <message>Got request at 1433678152377</message>
+</record>
+<record>
+  <date>2015-06-07T07:55:52</date>
+  <millis>1433678152378</millis>
+  <sequence>44</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>17</thread>
+  <message>{}</message>
+</record>
+<record>
+  <date>2015-06-07T07:55:52</date>
+  <millis>1433678152380</millis>
+  <sequence>45</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>17</thread>
+  <message>{body=What if a black guy straightned they're hair to get a pompadour or a side part or a combover with a full head of hair ?, category=Hair, title= Black guy straightening they're hair?, qid=YA:20150607045240AAePasy}</message>
+</record>
+<record>
+  <date>2015-06-07T07:55:52</date>
+  <millis>1433678152382</millis>
+  <sequence>46</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>17</thread>
+  <message>QID: YA:20150607045240AAePasy
+TITLE:  Black guy straightening they're hair?
+BODY: What if a black guy straightned they're hair to get a pompadour or a side part or a combover with a full head of hair ?
+CATEGORY: Hair
+</message>
+</record>
+<record>
+  <date>2015-06-07T07:55:52</date>
+  <millis>1433678152385</millis>
+  <sequence>47</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>17</thread>
+  <message>Response: my answer; Resources: resource1,resource2</message>
+</record>
+<record>
+  <date>2015-06-07T07:55:52</date>
+  <millis>1433678152387</millis>
+  <sequence>48</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>17</thread>
+  <message>Internal time logged: 10</message>
+</record>
+<record>
+  <date>2015-06-07T07:59:00</date>
+  <millis>1433678340153</millis>
+  <sequence>49</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>18</thread>
+  <message>Got request at 1433678340153</message>
+</record>
+<record>
+  <date>2015-06-07T07:59:00</date>
+  <millis>1433678340157</millis>
+  <sequence>50</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>18</thread>
+  <message>{}</message>
+</record>
+<record>
+  <date>2015-06-07T07:59:00</date>
+  <millis>1433678340161</millis>
+  <sequence>51</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>18</thread>
+  <message>{body="Wanting to run away before weedy
+A crooked white tree dwelt on wonted woods.
+As it was bent and not all that leafy
+It felt broken and sad where it stood."
+
+
+I'm not a native English speaker, but to me it scans as follows:
+
+  Verse 1 = Pentameter: 1 Trochee + 3 Iambs + 1 Trochee
+
+Verse 2 = Pentameter:  2 Iambs + 1 Spondee + 2 Iambs
+
+Verse 3 = Pentameter: 3 Iambs + 2 trochee
+
+Verse 4 = Tetrameter:   1 Iamb + 1 Trochee + 1 Iamb + 1 Anapest
+
+
+I'm almost sure this scanning is incorrect, please help to understand how to properly measure it.
+
+Thank you!, category=Poetry, title= How to scan this stanza/poem? And what effect does each verse has with its particular rhythm/meter?, qid=YA:20150607045856AASOcdC}</message>
+</record>
+<record>
+  <date>2015-06-07T07:59:01</date>
+  <millis>1433678341647</millis>
+  <sequence>52</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>18</thread>
+  <message>QID: YA:20150607045856AASOcdC
+TITLE:  How to scan this stanza/poem? And what effect does each verse has with its particular rhythm/meter?
+BODY: "Wanting to run away before weedy
+A crooked white tree dwelt on wonted woods.
+As it was bent and not all that leafy
+It felt broken and sad where it stood."
+
+
+I'm not a native English speaker, but to me it scans as follows:
+
+  Verse 1 = Pentameter: 1 Trochee + 3 Iambs + 1 Trochee
+
+Verse 2 = Pentameter:  2 Iambs + 1 Spondee + 2 Iambs
+
+Verse 3 = Pentameter: 3 Iambs + 2 trochee
+
+Verse 4 = Tetrameter:   1 Iamb + 1 Trochee + 1 Iamb + 1 Anapest
+
+
+I'm almost sure this scanning is incorrect, please help to understand how to properly measure it.
+
+Thank you!
+CATEGORY: Poetry
+</message>
+</record>
+<record>
+  <date>2015-06-07T07:59:01</date>
+  <millis>1433678341650</millis>
+  <sequence>53</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>18</thread>
+  <message>Response: my answer; Resources: resource1,resource2</message>
+</record>
+<record>
+  <date>2015-06-07T07:59:01</date>
+  <millis>1433678341653</millis>
+  <sequence>54</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>18</thread>
+  <message>Internal time logged: 1500</message>
+</record>
+<record>
+  <date>2015-06-07T08:02:11</date>
+  <millis>1433678531415</millis>
+  <sequence>55</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>19</thread>
+  <message>Got request at 1433678531415</message>
+</record>
+<record>
+  <date>2015-06-07T08:02:11</date>
+  <millis>1433678531417</millis>
+  <sequence>56</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>19</thread>
+  <message>{}</message>
+</record>
+<record>
+  <date>2015-06-07T08:02:11</date>
+  <millis>1433678531421</millis>
+  <sequence>57</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>19</thread>
+  <message>{body=I am asking about people in cities and towns.
+
+How often were clothes changed?
+
+How were they washed?
+
+What brands of cleaning soap was available for washing clothing?
+
+How were clothes dried after washing?
+
+Were clothes ironed after they dried?, category=History, title= In the USA how did people wash their clothes in the early 1900-1920?, qid=YA:20150607045922AAHy4UM}</message>
+</record>
+<record>
+  <date>2015-06-07T08:02:11</date>
+  <millis>1433678531424</millis>
+  <sequence>58</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>19</thread>
+  <message>QID: YA:20150607045922AAHy4UM
+TITLE:  In the USA how did people wash their clothes in the early 1900-1920?
+BODY: I am asking about people in cities and towns.
+
+How often were clothes changed?
+
+How were they washed?
+
+What brands of cleaning soap was available for washing clothing?
+
+How were clothes dried after washing?
+
+Were clothes ironed after they dried?
+CATEGORY: History
+</message>
+</record>
+<record>
+  <date>2015-06-07T08:02:11</date>
+  <millis>1433678531426</millis>
+  <sequence>59</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>19</thread>
+  <message>Response: my answer; Resources: resource1,resource2</message>
+</record>
+<record>
+  <date>2015-06-07T08:02:11</date>
+  <millis>1433678531428</millis>
+  <sequence>60</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>19</thread>
+  <message>Internal time logged: 13</message>
+</record>
+<record>
+  <date>2015-06-07T08:05:15</date>
+  <millis>1433678715160</millis>
+  <sequence>61</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>20</thread>
+  <message>Got request at 1433678715160</message>
+</record>
+<record>
+  <date>2015-06-07T08:05:15</date>
+  <millis>1433678715164</millis>
+  <sequence>62</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>20</thread>
+  <message>{}</message>
+</record>
+<record>
+  <date>2015-06-07T08:05:15</date>
+  <millis>1433678715166</millis>
+  <sequence>63</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>20</thread>
+  <message>{body=Okay. So, after about two and a half years of this problem I have finally decided enough is enough...
+My hair has been dyed a lot of colours in the past (blonde,red,dark brown, ombre, pink dip dye etc) my natural colour hair is light brown. Because of all these colours mixed into one my hair is the colour of a bad ombre dip dye all over my head. It always without fail, reverts back to this horrible red orange colour. I try to cover it up by dying it brown over and over again but it never works. And obviously my hair is getting damaged, too. I've tried silver shampoo, stripping my hair and dying it dark brown over and over again. Does anyone know how I can get rid of this problem permanently? I should mention that I do not have a lot of money either so I can't spend a lot :-(.  Very thankful for any advice given!! Thank you., category=Hair, title= Hair help please! :-(?, qid=YA:20150607050458AAtN90M}</message>
+</record>
+<record>
+  <date>2015-06-07T08:05:15</date>
+  <millis>1433678715169</millis>
+  <sequence>64</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>20</thread>
+  <message>QID: YA:20150607050458AAtN90M
+TITLE:  Hair help please! :-(?
+BODY: Okay. So, after about two and a half years of this problem I have finally decided enough is enough...
+My hair has been dyed a lot of colours in the past (blonde,red,dark brown, ombre, pink dip dye etc) my natural colour hair is light brown. Because of all these colours mixed into one my hair is the colour of a bad ombre dip dye all over my head. It always without fail, reverts back to this horrible red orange colour. I try to cover it up by dying it brown over and over again but it never works. And obviously my hair is getting damaged, too. I've tried silver shampoo, stripping my hair and dying it dark brown over and over again. Does anyone know how I can get rid of this problem permanently? I should mention that I do not have a lot of money either so I can't spend a lot :-(.  Very thankful for any advice given!! Thank you.
+CATEGORY: Hair
+</message>
+</record>
+<record>
+  <date>2015-06-07T08:05:15</date>
+  <millis>1433678715171</millis>
+  <sequence>65</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>20</thread>
+  <message>Response: my answer; Resources: resource1,resource2</message>
+</record>
+<record>
+  <date>2015-06-07T08:05:15</date>
+  <millis>1433678715173</millis>
+  <sequence>66</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>20</thread>
+  <message>Internal time logged: 13</message>
+</record>
+<record>
+  <date>2015-06-07T08:08:28</date>
+  <millis>1433678908548</millis>
+  <sequence>67</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>21</thread>
+  <message>Got request at 1433678908548</message>
+</record>
+<record>
+  <date>2015-06-07T08:08:28</date>
+  <millis>1433678908550</millis>
+  <sequence>68</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>21</thread>
+  <message>{}</message>
+</record>
+<record>
+  <date>2015-06-07T08:08:28</date>
+  <millis>1433678908554</millis>
+  <sequence>69</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>21</thread>
+  <message>{body=No idea why. I was taking a shower 2 days ago and water had trickled into my eye. I wiped it and rinsed  it, but it been sore ever since on the outer corner of my left eye! It doesn't feel like anything is in it, or mucusy or full. Just sore. My outer eye socket is also sore. My actual eye is completely normal, not blood shot or anything., category=Optical, title= My eyelid is swelling!?, qid=YA:20150607050538AAdu0al}</message>
+</record>
+<record>
+  <date>2015-06-07T08:08:28</date>
+  <millis>1433678908558</millis>
+  <sequence>70</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>21</thread>
+  <message>QID: YA:20150607050538AAdu0al
+TITLE:  My eyelid is swelling!?
+BODY: No idea why. I was taking a shower 2 days ago and water had trickled into my eye. I wiped it and rinsed  it, but it been sore ever since on the outer corner of my left eye! It doesn't feel like anything is in it, or mucusy or full. Just sore. My outer eye socket is also sore. My actual eye is completely normal, not blood shot or anything.
+CATEGORY: Optical
+</message>
+</record>
+<record>
+  <date>2015-06-07T08:08:28</date>
+  <millis>1433678908560</millis>
+  <sequence>71</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>21</thread>
+  <message>Response: my answer; Resources: resource1,resource2</message>
+</record>
+<record>
+  <date>2015-06-07T08:08:28</date>
+  <millis>1433678908563</millis>
+  <sequence>72</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>21</thread>
+  <message>Internal time logged: 14</message>
+</record>
+<record>
+  <date>2015-06-07T08:11:38</date>
+  <millis>1433679098853</millis>
+  <sequence>73</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>22</thread>
+  <message>Got request at 1433679098853</message>
+</record>
+<record>
+  <date>2015-06-07T08:11:38</date>
+  <millis>1433679098855</millis>
+  <sequence>74</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>22</thread>
+  <message>{}</message>
+</record>
+<record>
+  <date>2015-06-07T08:11:38</date>
+  <millis>1433679098858</millis>
+  <sequence>75</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>22</thread>
+  <message>{body=I have been looking around for a horse for the last while and I found a beautiful 16.2hh chestnut mare thoroughbred cross called Dandi and when I spoke to the owner of the yard I ride at he said they are known for being a little off especially if they have thoroughbred blood I dont know if this stereotype is real I cant find anything with good advise also the only chestnut mare in the yard is a psycho so Im hoping that she is a once off., category=Horses, title= Is the chestnut mare stereotype true?, qid=YA:20150607051002AAavN98}</message>
+</record>
+<record>
+  <date>2015-06-07T08:11:38</date>
+  <millis>1433679098860</millis>
+  <sequence>76</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>22</thread>
+  <message>QID: YA:20150607051002AAavN98
+TITLE:  Is the chestnut mare stereotype true?
+BODY: I have been looking around for a horse for the last while and I found a beautiful 16.2hh chestnut mare thoroughbred cross called Dandi and when I spoke to the owner of the yard I ride at he said they are known for being a little off especially if they have thoroughbred blood I dont know if this stereotype is real I cant find anything with good advise also the only chestnut mare in the yard is a psycho so Im hoping that she is a once off.
+CATEGORY: Horses
+</message>
+</record>
+<record>
+  <date>2015-06-07T08:11:38</date>
+  <millis>1433679098864</millis>
+  <sequence>77</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>22</thread>
+  <message>Response: my answer; Resources: resource1,resource2</message>
+</record>
+<record>
+  <date>2015-06-07T08:11:38</date>
+  <millis>1433679098868</millis>
+  <sequence>78</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>22</thread>
+  <message>Internal time logged: 15</message>
+</record>
+<record>
+  <date>2015-06-07T08:14:45</date>
+  <millis>1433679285703</millis>
+  <sequence>79</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>23</thread>
+  <message>Got request at 1433679285703</message>
+</record>
+<record>
+  <date>2015-06-07T08:14:45</date>
+  <millis>1433679285705</millis>
+  <sequence>80</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>23</thread>
+  <message>{}</message>
+</record>
+<record>
+  <date>2015-06-07T08:14:45</date>
+  <millis>1433679285708</millis>
+  <sequence>81</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>23</thread>
+  <message>{body=, category=Poetry, title= Poem about how ones lifestyle can affect the functioning of the respiratory abd circulatory system?, qid=YA:20150607051211AAZ4J6H}</message>
+</record>
+<record>
+  <date>2015-06-07T08:14:45</date>
+  <millis>1433679285713</millis>
+  <sequence>82</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>23</thread>
+  <message>QID: YA:20150607051211AAZ4J6H
+TITLE:  Poem about how ones lifestyle can affect the functioning of the respiratory abd circulatory system?
+BODY: 
+CATEGORY: Poetry
+</message>
+</record>
+<record>
+  <date>2015-06-07T08:14:45</date>
+  <millis>1433679285718</millis>
+  <sequence>83</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>23</thread>
+  <message>Response: my answer; Resources: resource1,resource2</message>
+</record>
+<record>
+  <date>2015-06-07T08:14:45</date>
+  <millis>1433679285722</millis>
+  <sequence>84</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>23</thread>
+  <message>Internal time logged: 19</message>
+</record>
+<record>
+  <date>2015-06-07T08:21:04</date>
+  <millis>1433679664791</millis>
+  <sequence>85</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>24</thread>
+  <message>Got request at 1433679664791</message>
+</record>
+<record>
+  <date>2015-06-07T08:21:04</date>
+  <millis>1433679664793</millis>
+  <sequence>86</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>24</thread>
+  <message>{}</message>
+</record>
+<record>
+  <date>2015-06-07T08:21:04</date>
+  <millis>1433679664797</millis>
+  <sequence>87</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>24</thread>
+  <message>{body=Would KG from 2002 to 2004 be considered the best PF in NBA history if he had extended that prime a little longer?
+
+He averaged 24 Points, almost 14 Rebounds, 6 Assists, 1.5 Steals and 2 Blocks per game during that time span while playing 40 minutes every game and leading the Timberwolves in all 5 major statistics (Points, Rebounds, Assists, Blocks and Steals per game)., category=Basketball, title= Was Prime KG the best Power Forward in history?, qid=YA:20150607052102AAgmRr5}</message>
+</record>
+<record>
+  <date>2015-06-07T08:21:04</date>
+  <millis>1433679664799</millis>
+  <sequence>88</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>24</thread>
+  <message>QID: YA:20150607052102AAgmRr5
+TITLE:  Was Prime KG the best Power Forward in history?
+BODY: Would KG from 2002 to 2004 be considered the best PF in NBA history if he had extended that prime a little longer?
+
+He averaged 24 Points, almost 14 Rebounds, 6 Assists, 1.5 Steals and 2 Blocks per game during that time span while playing 40 minutes every game and leading the Timberwolves in all 5 major statistics (Points, Rebounds, Assists, Blocks and Steals per game).
+CATEGORY: Basketball
+</message>
+</record>
+<record>
+  <date>2015-06-07T08:21:04</date>
+  <millis>1433679664802</millis>
+  <sequence>89</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>24</thread>
+  <message>Response: my answer; Resources: resource1,resource2</message>
+</record>
+<record>
+  <date>2015-06-07T08:21:04</date>
+  <millis>1433679664804</millis>
+  <sequence>90</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>24</thread>
+  <message>Internal time logged: 13</message>
+</record>
+<record>
+  <date>2015-06-07T08:27:17</date>
+  <millis>1433680037349</millis>
+  <sequence>91</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>25</thread>
+  <message>Got request at 1433680037349</message>
+</record>
+<record>
+  <date>2015-06-07T08:27:17</date>
+  <millis>1433680037359</millis>
+  <sequence>92</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>25</thread>
+  <message>{}</message>
+</record>
+<record>
+  <date>2015-06-07T08:27:17</date>
+  <millis>1433680037360</millis>
+  <sequence>93</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>25</thread>
+  <message>{body=I need to learn:
+1. How and why people became slaves?
+2. How Africans were taken to the  Americas?
+3. Causes of WW1
+4. The Alliance System
+5. Main events of WW1
+6. Trench Warfare
+7.The Battle of the Somme
+8. Why the Allies won and Germany lost?
+10. What the treaty of Versailles said?
+11. How fair the treaty of Versailles was or wasn't?, category=History, title= I need Help with History Revision?, qid=YA:20150607052553AACJbT5}</message>
+</record>
+<record>
+  <date>2015-06-07T08:27:17</date>
+  <millis>1433680037363</millis>
+  <sequence>94</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>25</thread>
+  <message>QID: YA:20150607052553AACJbT5
+TITLE:  I need Help with History Revision?
+BODY: I need to learn:
+1. How and why people became slaves?
+2. How Africans were taken to the  Americas?
+3. Causes of WW1
+4. The Alliance System
+5. Main events of WW1
+6. Trench Warfare
+7.The Battle of the Somme
+8. Why the Allies won and Germany lost?
+10. What the treaty of Versailles said?
+11. How fair the treaty of Versailles was or wasn't?
+CATEGORY: History
+</message>
+</record>
+<record>
+  <date>2015-06-07T08:27:17</date>
+  <millis>1433680037368</millis>
+  <sequence>95</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>25</thread>
+  <message>Response: my answer; Resources: resource1,resource2</message>
+</record>
+<record>
+  <date>2015-06-07T08:27:17</date>
+  <millis>1433680037371</millis>
+  <sequence>96</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>25</thread>
+  <message>Internal time logged: 22</message>
+</record>
+<record>
+  <date>2015-06-07T08:33:33</date>
+  <millis>1433680413043</millis>
+  <sequence>97</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>26</thread>
+  <message>Got request at 1433680413043</message>
+</record>
+<record>
+  <date>2015-06-07T08:33:33</date>
+  <millis>1433680413086</millis>
+  <sequence>98</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>26</thread>
+  <message>{}</message>
+</record>
+<record>
+  <date>2015-06-07T08:33:33</date>
+  <millis>1433680413088</millis>
+  <sequence>99</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>26</thread>
+  <message>{body=From timw to time I hear people saying that men with mid-length hair is not a man. That man should have short hair (like guys in the military). Do you agree with that? What makes man being a "man"? If man with mid-length hair is a professional boxer, gentleman with women, knows how the basic of repairing stuff and building, protects his family and dont go back on his words. He's not a man or manly because of the hairstyle? I don't think so. What's you opinion?, category=Hair, title= Men with mid-length hair is not manly?, qid=YA:20150607053313AAN3zxS}</message>
+</record>
+<record>
+  <date>2015-06-07T08:33:33</date>
+  <millis>1433680413090</millis>
+  <sequence>100</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>26</thread>
+  <message>QID: YA:20150607053313AAN3zxS
+TITLE:  Men with mid-length hair is not manly?
+BODY: From timw to time I hear people saying that men with mid-length hair is not a man. That man should have short hair (like guys in the military). Do you agree with that? What makes man being a "man"? If man with mid-length hair is a professional boxer, gentleman with women, knows how the basic of repairing stuff and building, protects his family and dont go back on his words. He's not a man or manly because of the hairstyle? I don't think so. What's you opinion?
+CATEGORY: Hair
+</message>
+</record>
+<record>
+  <date>2015-06-07T08:33:33</date>
+  <millis>1433680413092</millis>
+  <sequence>101</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>26</thread>
+  <message>Response: my answer; Resources: resource1,resource2</message>
+</record>
+<record>
+  <date>2015-06-07T08:33:33</date>
+  <millis>1433680413094</millis>
+  <sequence>102</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>26</thread>
+  <message>Internal time logged: 51</message>
+</record>
+<record>
+  <date>2015-06-07T08:43:20</date>
+  <millis>1433681000125</millis>
+  <sequence>103</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>27</thread>
+  <message>Got request at 1433681000125</message>
+</record>
+<record>
+  <date>2015-06-07T08:43:20</date>
+  <millis>1433681000128</millis>
+  <sequence>104</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>27</thread>
+  <message>{}</message>
+</record>
+<record>
+  <date>2015-06-07T08:43:20</date>
+  <millis>1433681000132</millis>
+  <sequence>105</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>27</thread>
+  <message>{body=, category=History, title= Do Iraqis have more Arabic or Persian blood since in Iraq in most of its history was part of ancient Persian empires.?, qid=YA:20150607054023AAvGzVY}</message>
+</record>
+<record>
+  <date>2015-06-07T08:43:20</date>
+  <millis>1433681000136</millis>
+  <sequence>106</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>27</thread>
+  <message>QID: YA:20150607054023AAvGzVY
+TITLE:  Do Iraqis have more Arabic or Persian blood since in Iraq in most of its history was part of ancient Persian empires.?
+BODY: 
+CATEGORY: History
+</message>
+</record>
+<record>
+  <date>2015-06-07T08:43:20</date>
+  <millis>1433681000140</millis>
+  <sequence>107</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>27</thread>
+  <message>Response: my answer; Resources: resource1,resource2</message>
+</record>
+<record>
+  <date>2015-06-07T08:43:20</date>
+  <millis>1433681000141</millis>
+  <sequence>108</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>27</thread>
+  <message>Internal time logged: 16</message>
+</record>
+<record>
+  <date>2015-06-07T08:46:23</date>
+  <millis>1433681183961</millis>
+  <sequence>109</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>28</thread>
+  <message>Got request at 1433681183961</message>
+</record>
+<record>
+  <date>2015-06-07T08:46:23</date>
+  <millis>1433681183963</millis>
+  <sequence>110</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>28</thread>
+  <message>{}</message>
+</record>
+<record>
+  <date>2015-06-07T08:46:23</date>
+  <millis>1433681183967</millis>
+  <sequence>111</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>28</thread>
+  <message>{body=I have really frizzy wavy hair wich one should I get ? also my hair is not coloured but it its just naturally like that so yeah, category=Hair, title= Bed head totally beach in vs new dumb blond?, qid=YA:20150607054503AAVEc2g}</message>
+</record>
+<record>
+  <date>2015-06-07T08:46:23</date>
+  <millis>1433681183971</millis>
+  <sequence>112</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>28</thread>
+  <message>QID: YA:20150607054503AAVEc2g
+TITLE:  Bed head totally beach in vs new dumb blond?
+BODY: I have really frizzy wavy hair wich one should I get ? also my hair is not coloured but it its just naturally like that so yeah
+CATEGORY: Hair
+</message>
+</record>
+<record>
+  <date>2015-06-07T08:46:23</date>
+  <millis>1433681183975</millis>
+  <sequence>113</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>28</thread>
+  <message>Response: my answer; Resources: resource1,resource2</message>
+</record>
+<record>
+  <date>2015-06-07T08:46:23</date>
+  <millis>1433681183977</millis>
+  <sequence>114</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>28</thread>
+  <message>Internal time logged: 16</message>
+</record>
+<record>
+  <date>2015-06-07T08:52:45</date>
+  <millis>1433681565890</millis>
+  <sequence>115</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>29</thread>
+  <message>Got request at 1433681565890</message>
+</record>
+<record>
+  <date>2015-06-07T08:52:45</date>
+  <millis>1433681565892</millis>
+  <sequence>116</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>29</thread>
+  <message>{}</message>
+</record>
+<record>
+  <date>2015-06-07T08:52:45</date>
+  <millis>1433681565893</millis>
+  <sequence>117</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>29</thread>
+  <message>{body=Noticed a small bumped up area friday on the very front but no swelling, let me touch it fine and not lame, at least not on that leg. He's also over in knees and has an old deep flexor tendon injury on right front. I usually wrap at night but did not last night and it is definitely swollen more than normal but mostly on outside of leg. He also has windpuffs  on back legs but this was big enough I put his ice boots on back legs today. He's my best trained horse! Would really like him to be sound at some point, any ideas?, category=Horses, title= QH gelding, swelling on front and outside area of Cannon bone on hind right leg.?, qid=YA:20150607055221AASDw50}</message>
+</record>
+<record>
+  <date>2015-06-07T08:52:45</date>
+  <millis>1433681565895</millis>
+  <sequence>118</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>29</thread>
+  <message>QID: YA:20150607055221AASDw50
+TITLE:  QH gelding, swelling on front and outside area of Cannon bone on hind right leg.?
+BODY: Noticed a small bumped up area friday on the very front but no swelling, let me touch it fine and not lame, at least not on that leg. He's also over in knees and has an old deep flexor tendon injury on right front. I usually wrap at night but did not last night and it is definitely swollen more than normal but mostly on outside of leg. He also has windpuffs  on back legs but this was big enough I put his ice boots on back legs today. He's my best trained horse! Would really like him to be sound at some point, any ideas?
+CATEGORY: Horses
+</message>
+</record>
+<record>
+  <date>2015-06-07T08:52:45</date>
+  <millis>1433681565898</millis>
+  <sequence>119</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>29</thread>
+  <message>Response: my answer; Resources: resource1,resource2</message>
+</record>
+<record>
+  <date>2015-06-07T08:52:45</date>
+  <millis>1433681565899</millis>
+  <sequence>120</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>29</thread>
+  <message>Internal time logged: 9</message>
+</record>
+<record>
+  <date>2015-06-07T08:55:53</date>
+  <millis>1433681753284</millis>
+  <sequence>121</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>30</thread>
+  <message>Got request at 1433681753284</message>
+</record>
+<record>
+  <date>2015-06-07T08:55:53</date>
+  <millis>1433681753286</millis>
+  <sequence>122</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>30</thread>
+  <message>{}</message>
+</record>
+<record>
+  <date>2015-06-07T08:55:53</date>
+  <millis>1433681753290</millis>
+  <sequence>123</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>30</thread>
+  <message>{body=, category=History, title= Why were swear words invented?, qid=YA:20150607055418AAQNxxT}</message>
+</record>
+<record>
+  <date>2015-06-07T08:55:53</date>
+  <millis>1433681753292</millis>
+  <sequence>124</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>30</thread>
+  <message>QID: YA:20150607055418AAQNxxT
+TITLE:  Why were swear words invented?
+BODY: 
+CATEGORY: History
+</message>
+</record>
+<record>
+  <date>2015-06-07T08:55:53</date>
+  <millis>1433681753295</millis>
+  <sequence>125</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>30</thread>
+  <message>Response: my answer; Resources: resource1,resource2</message>
+</record>
+<record>
+  <date>2015-06-07T08:55:53</date>
+  <millis>1433681753296</millis>
+  <sequence>126</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>30</thread>
+  <message>Internal time logged: 12</message>
+</record>
+<record>
+  <date>2015-06-07T09:02:23</date>
+  <millis>1433682143842</millis>
+  <sequence>127</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>31</thread>
+  <message>Got request at 1433682143842</message>
+</record>
+<record>
+  <date>2015-06-07T09:02:23</date>
+  <millis>1433682143844</millis>
+  <sequence>128</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>31</thread>
+  <message>{}</message>
+</record>
+<record>
+  <date>2015-06-07T09:02:23</date>
+  <millis>1433682143847</millis>
+  <sequence>129</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>31</thread>
+  <message>{body=, category=Boxing, title= Why are people so excited about deez nuts?, qid=YA:20150607060125AAZkMac}</message>
+</record>
+<record>
+  <date>2015-06-07T09:02:23</date>
+  <millis>1433682143851</millis>
+  <sequence>130</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>31</thread>
+  <message>QID: YA:20150607060125AAZkMac
+TITLE:  Why are people so excited about deez nuts?
+BODY: 
+CATEGORY: Boxing
+</message>
+</record>
+<record>
+  <date>2015-06-07T09:02:23</date>
+  <millis>1433682143855</millis>
+  <sequence>131</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>31</thread>
+  <message>Response: my answer; Resources: resource1,resource2</message>
+</record>
+<record>
+  <date>2015-06-07T09:02:23</date>
+  <millis>1433682143857</millis>
+  <sequence>132</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>31</thread>
+  <message>Internal time logged: 14</message>
+</record>
+<record>
+  <date>2015-06-07T09:05:24</date>
+  <millis>1433682324660</millis>
+  <sequence>133</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>32</thread>
+  <message>Got request at 1433682324660</message>
+</record>
+<record>
+  <date>2015-06-07T09:05:24</date>
+  <millis>1433682324662</millis>
+  <sequence>134</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>32</thread>
+  <message>{}</message>
+</record>
+<record>
+  <date>2015-06-07T09:05:24</date>
+  <millis>1433682324666</millis>
+  <sequence>135</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>32</thread>
+  <message>{body=I've always had them on my two front teeth since I was little. When I go for teeth cleaning at the dentist every few months, the spots go away for a day or two but then they become visible again. Is there any way to get rid of them completely?, category=Dental, title= Calcium spots on teeth?, qid=YA:20150607060502AAS3wfJ}</message>
+</record>
+<record>
+  <date>2015-06-07T09:05:24</date>
+  <millis>1433682324670</millis>
+  <sequence>136</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>32</thread>
+  <message>QID: YA:20150607060502AAS3wfJ
+TITLE:  Calcium spots on teeth?
+BODY: I've always had them on my two front teeth since I was little. When I go for teeth cleaning at the dentist every few months, the spots go away for a day or two but then they become visible again. Is there any way to get rid of them completely?
+CATEGORY: Dental
+</message>
+</record>
+<record>
+  <date>2015-06-07T09:05:24</date>
+  <millis>1433682324674</millis>
+  <sequence>137</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>32</thread>
+  <message>Response: my answer; Resources: resource1,resource2</message>
+</record>
+<record>
+  <date>2015-06-07T09:05:24</date>
+  <millis>1433682324676</millis>
+  <sequence>138</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>32</thread>
+  <message>Internal time logged: 16</message>
+</record>
+<record>
+  <date>2015-06-07T09:08:33</date>
+  <millis>1433682513856</millis>
+  <sequence>139</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>33</thread>
+  <message>Got request at 1433682513856</message>
+</record>
+<record>
+  <date>2015-06-07T09:08:33</date>
+  <millis>1433682513857</millis>
+  <sequence>140</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>33</thread>
+  <message>{}</message>
+</record>
+<record>
+  <date>2015-06-07T09:08:33</date>
+  <millis>1433682513859</millis>
+  <sequence>141</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>33</thread>
+  <message>{body=, category=Hair, title= 'What is the difference between unnumbered memorandum and numbered memorandum?'?, qid=YA:20150607060604AAOTIYu}</message>
+</record>
+<record>
+  <date>2015-06-07T09:08:33</date>
+  <millis>1433682513861</millis>
+  <sequence>142</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>33</thread>
+  <message>QID: YA:20150607060604AAOTIYu
+TITLE:  'What is the difference between unnumbered memorandum and numbered memorandum?'?
+BODY: 
+CATEGORY: Hair
+</message>
+</record>
+<record>
+  <date>2015-06-07T09:08:33</date>
+  <millis>1433682513863</millis>
+  <sequence>143</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>33</thread>
+  <message>Response: my answer; Resources: resource1,resource2</message>
+</record>
+<record>
+  <date>2015-06-07T09:08:33</date>
+  <millis>1433682513865</millis>
+  <sequence>144</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>33</thread>
+  <message>Internal time logged: 9</message>
+</record>
+<record>
+  <date>2015-06-07T09:15:05</date>
+  <millis>1433682905253</millis>
+  <sequence>145</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>34</thread>
+  <message>Got request at 1433682905253</message>
+</record>
+<record>
+  <date>2015-06-07T09:15:05</date>
+  <millis>1433682905255</millis>
+  <sequence>146</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>34</thread>
+  <message>{}</message>
+</record>
+<record>
+  <date>2015-06-07T09:15:05</date>
+  <millis>1433682905258</millis>
+  <sequence>147</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>34</thread>
+  <message>{body=, category=History, title= Who was the first to start 1970s hair style?, qid=YA:20150607061238AAfjGK6}</message>
+</record>
+<record>
+  <date>2015-06-07T09:15:05</date>
+  <millis>1433682905262</millis>
+  <sequence>148</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>34</thread>
+  <message>QID: YA:20150607061238AAfjGK6
+TITLE:  Who was the first to start 1970s hair style?
+BODY: 
+CATEGORY: History
+</message>
+</record>
+<record>
+  <date>2015-06-07T09:15:05</date>
+  <millis>1433682905268</millis>
+  <sequence>149</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>34</thread>
+  <message>Response: my answer; Resources: resource1,resource2</message>
+</record>
+<record>
+  <date>2015-06-07T09:15:05</date>
+  <millis>1433682905270</millis>
+  <sequence>150</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>34</thread>
+  <message>Internal time logged: 17</message>
+</record>
+<record>
+  <date>2015-06-07T09:18:08</date>
+  <millis>1433683088824</millis>
+  <sequence>151</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>35</thread>
+  <message>Got request at 1433683088824</message>
+</record>
+<record>
+  <date>2015-06-07T09:18:08</date>
+  <millis>1433683088826</millis>
+  <sequence>152</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>35</thread>
+  <message>{}</message>
+</record>
+<record>
+  <date>2015-06-07T09:18:08</date>
+  <millis>1433683088829</millis>
+  <sequence>153</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>35</thread>
+  <message>{body=I want to know when guns began to be used commonly in war. Also if you could tell me when they started being used for hunting commonly, that would also be helpful., category=History, title= When did guns begin to be commonly used in the battle field?, qid=YA:20150607061703AANAZT3}</message>
+</record>
+<record>
+  <date>2015-06-07T09:18:08</date>
+  <millis>1433683088831</millis>
+  <sequence>154</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>35</thread>
+  <message>QID: YA:20150607061703AANAZT3
+TITLE:  When did guns begin to be commonly used in the battle field?
+BODY: I want to know when guns began to be used commonly in war. Also if you could tell me when they started being used for hunting commonly, that would also be helpful.
+CATEGORY: History
+</message>
+</record>
+<record>
+  <date>2015-06-07T09:18:08</date>
+  <millis>1433683088833</millis>
+  <sequence>155</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>35</thread>
+  <message>Response: my answer; Resources: resource1,resource2</message>
+</record>
+<record>
+  <date>2015-06-07T09:18:08</date>
+  <millis>1433683088835</millis>
+  <sequence>156</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>35</thread>
+  <message>Internal time logged: 11</message>
+</record>
+<record>
+  <date>2015-06-07T09:21:10</date>
+  <millis>1433683270103</millis>
+  <sequence>157</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>36</thread>
+  <message>Got request at 1433683270103</message>
+</record>
+<record>
+  <date>2015-06-07T09:21:10</date>
+  <millis>1433683270105</millis>
+  <sequence>158</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>36</thread>
+  <message>{}</message>
+</record>
+<record>
+  <date>2015-06-07T09:21:10</date>
+  <millis>1433683270108</millis>
+  <sequence>159</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>36</thread>
+  <message>{body=as I said above when I try to let's say some of my dreads are facing back but I want them to face down they won't stay is it because they are only a few days old? How long will I have to wait for them to cooperate?, category=Hair, title= So I got my starter locs a few days ago but when I try to make them face a different way they won't stay?, qid=YA:20150607062058AAbVrey}</message>
+</record>
+<record>
+  <date>2015-06-07T09:21:10</date>
+  <millis>1433683270112</millis>
+  <sequence>160</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>36</thread>
+  <message>QID: YA:20150607062058AAbVrey
+TITLE:  So I got my starter locs a few days ago but when I try to make them face a different way they won't stay?
+BODY: as I said above when I try to let's say some of my dreads are facing back but I want them to face down they won't stay is it because they are only a few days old? How long will I have to wait for them to cooperate?
+CATEGORY: Hair
+</message>
+</record>
+<record>
+  <date>2015-06-07T09:21:10</date>
+  <millis>1433683270117</millis>
+  <sequence>161</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>36</thread>
+  <message>Response: my answer; Resources: resource1,resource2</message>
+</record>
+<record>
+  <date>2015-06-07T09:21:10</date>
+  <millis>1433683270119</millis>
+  <sequence>162</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>36</thread>
+  <message>Internal time logged: 16</message>
+</record>
+<record>
+  <date>2015-06-07T09:24:21</date>
+  <millis>1433683461692</millis>
+  <sequence>163</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>37</thread>
+  <message>Got request at 1433683461692</message>
+</record>
+<record>
+  <date>2015-06-07T09:24:21</date>
+  <millis>1433683461694</millis>
+  <sequence>164</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>37</thread>
+  <message>{}</message>
+</record>
+<record>
+  <date>2015-06-07T09:24:21</date>
+  <millis>1433683461697</millis>
+  <sequence>165</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>37</thread>
+  <message>{body=, category=Hair, title= Just got stater locs but going on vacation in 2 and half months will I be able to swim?, qid=YA:20150607062210AAmWxrB}</message>
+</record>
+<record>
+  <date>2015-06-07T09:24:21</date>
+  <millis>1433683461699</millis>
+  <sequence>166</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>37</thread>
+  <message>QID: YA:20150607062210AAmWxrB
+TITLE:  Just got stater locs but going on vacation in 2 and half months will I be able to swim?
+BODY: 
+CATEGORY: Hair
+</message>
+</record>
+<record>
+  <date>2015-06-07T09:24:21</date>
+  <millis>1433683461701</millis>
+  <sequence>167</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>37</thread>
+  <message>Response: my answer; Resources: resource1,resource2</message>
+</record>
+<record>
+  <date>2015-06-07T09:24:21</date>
+  <millis>1433683461703</millis>
+  <sequence>168</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>37</thread>
+  <message>Internal time logged: 11</message>
+</record>
+<record>
+  <date>2015-06-07T09:30:52</date>
+  <millis>1433683852058</millis>
+  <sequence>169</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>38</thread>
+  <message>Got request at 1433683852058</message>
+</record>
+<record>
+  <date>2015-06-07T09:30:52</date>
+  <millis>1433683852061</millis>
+  <sequence>170</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>38</thread>
+  <message>{}</message>
+</record>
+<record>
+  <date>2015-06-07T09:30:52</date>
+  <millis>1433683852064</millis>
+  <sequence>171</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>38</thread>
+  <message>{body=“and when love came to us twice 
+and lied to us twice 
+we decided to never love again 
+that was fair 
+fair to us 
+and fair to love itself. 
+
+we ask for no mercy or no 
+miracles; 
+we are strong enough to live 
+and to die and to 
+kill flies, 
+
+attend the boxing matches, go to the racetrack, 
+live on luck and skill, 
+get alone, get alone often, 
+and if you can t sleep alone 
+be careful of the words you speak in your sleep; 
+and 
+ask for no mercy 
+no miracles; 
+
+and don t forget: 
+time is meant to be wasted, 
+love fails
+and death is useless.”, category=Poetry, title= Can anyone tell me what Charles Bukowski poem this is from?, qid=YA:20150607062921AAmYjCn}</message>
+</record>
+<record>
+  <date>2015-06-07T09:30:52</date>
+  <millis>1433683852068</millis>
+  <sequence>172</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>38</thread>
+  <message>QID: YA:20150607062921AAmYjCn
+TITLE:  Can anyone tell me what Charles Bukowski poem this is from?
+BODY: “and when love came to us twice 
+and lied to us twice 
+we decided to never love again 
+that was fair 
+fair to us 
+and fair to love itself. 
+
+we ask for no mercy or no 
+miracles; 
+we are strong enough to live 
+and to die and to 
+kill flies, 
+
+attend the boxing matches, go to the racetrack, 
+live on luck and skill, 
+get alone, get alone often, 
+and if you can t sleep alone 
+be careful of the words you speak in your sleep; 
+and 
+ask for no mercy 
+no miracles; 
+
+and don t forget: 
+time is meant to be wasted, 
+love fails
+and death is useless.”
+CATEGORY: Poetry
+</message>
+</record>
+<record>
+  <date>2015-06-07T09:30:52</date>
+  <millis>1433683852071</millis>
+  <sequence>173</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>38</thread>
+  <message>Response: my answer; Resources: resource1,resource2</message>
+</record>
+<record>
+  <date>2015-06-07T09:30:52</date>
+  <millis>1433683852073</millis>
+  <sequence>174</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>38</thread>
+  <message>Internal time logged: 14</message>
+</record>
+<record>
+  <date>2015-06-07T09:37:18</date>
+  <millis>1433684238048</millis>
+  <sequence>175</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>39</thread>
+  <message>Got request at 1433684238048</message>
+</record>
+<record>
+  <date>2015-06-07T09:37:18</date>
+  <millis>1433684238049</millis>
+  <sequence>176</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>39</thread>
+  <message>{}</message>
+</record>
+<record>
+  <date>2015-06-07T09:37:18</date>
+  <millis>1433684238051</millis>
+  <sequence>177</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>39</thread>
+  <message>{body=, category=Hair, title= Hey. Recently i bought organic colour system hair shampoo and i realised that it contains sodium 14-16 olefin sulphonate. Is it bad ?, qid=YA:20150607063638AAvwC0n}</message>
+</record>
+<record>
+  <date>2015-06-07T09:37:18</date>
+  <millis>1433684238052</millis>
+  <sequence>178</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>39</thread>
+  <message>QID: YA:20150607063638AAvwC0n
+TITLE:  Hey. Recently i bought organic colour system hair shampoo and i realised that it contains sodium 14-16 olefin sulphonate. Is it bad ?
+BODY: 
+CATEGORY: Hair
+</message>
+</record>
+<record>
+  <date>2015-06-07T09:37:18</date>
+  <millis>1433684238055</millis>
+  <sequence>179</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>39</thread>
+  <message>Response: my answer; Resources: resource1,resource2</message>
+</record>
+<record>
+  <date>2015-06-07T09:37:18</date>
+  <millis>1433684238056</millis>
+  <sequence>180</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>39</thread>
+  <message>Internal time logged: 8</message>
+</record>
+<record>
+  <date>2015-06-07T09:40:18</date>
+  <millis>1433684418540</millis>
+  <sequence>181</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>40</thread>
+  <message>Got request at 1433684418540</message>
+</record>
+<record>
+  <date>2015-06-07T09:40:18</date>
+  <millis>1433684418542</millis>
+  <sequence>182</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>40</thread>
+  <message>{}</message>
+</record>
+<record>
+  <date>2015-06-07T09:40:18</date>
+  <millis>1433684418545</millis>
+  <sequence>183</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>40</thread>
+  <message>{body=, category=Dental, title= When should I check with my dentist about inflammation in my bottom gums it's been almost a week and my bottom side gums are really sore?, qid=YA:20150607063916AAbypei}</message>
+</record>
+<record>
+  <date>2015-06-07T09:40:18</date>
+  <millis>1433684418549</millis>
+  <sequence>184</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>40</thread>
+  <message>QID: YA:20150607063916AAbypei
+TITLE:  When should I check with my dentist about inflammation in my bottom gums it's been almost a week and my bottom side gums are really sore?
+BODY: 
+CATEGORY: Dental
+</message>
+</record>
+<record>
+  <date>2015-06-07T09:40:18</date>
+  <millis>1433684418554</millis>
+  <sequence>185</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>40</thread>
+  <message>Response: my answer; Resources: resource1,resource2</message>
+</record>
+<record>
+  <date>2015-06-07T09:40:18</date>
+  <millis>1433684418557</millis>
+  <sequence>186</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>40</thread>
+  <message>Internal time logged: 17</message>
+</record>
+<record>
+  <date>2015-06-07T09:43:26</date>
+  <millis>1433684606269</millis>
+  <sequence>187</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>41</thread>
+  <message>Got request at 1433684606269</message>
+</record>
+<record>
+  <date>2015-06-07T09:43:26</date>
+  <millis>1433684606271</millis>
+  <sequence>188</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>41</thread>
+  <message>{}</message>
+</record>
+<record>
+  <date>2015-06-07T09:43:26</date>
+  <millis>1433684606274</millis>
+  <sequence>189</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>41</thread>
+  <message>{body=, category=Hair, title= Does anybody know how to get these curls or the name of them please help?, qid=YA:20150607064145AAQ2YGC}</message>
+</record>
+<record>
+  <date>2015-06-07T09:43:26</date>
+  <millis>1433684606277</millis>
+  <sequence>190</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>41</thread>
+  <message>QID: YA:20150607064145AAQ2YGC
+TITLE:  Does anybody know how to get these curls or the name of them please help?
+BODY: 
+CATEGORY: Hair
+</message>
+</record>
+<record>
+  <date>2015-06-07T09:43:27</date>
+  <millis>1433684607769</millis>
+  <sequence>191</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>41</thread>
+  <message>Response: my answer; Resources: resource1,resource2</message>
+</record>
+<record>
+  <date>2015-06-07T09:43:27</date>
+  <millis>1433684607771</millis>
+  <sequence>192</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>41</thread>
+  <message>Internal time logged: 1502</message>
+</record>
+<record>
+  <date>2015-06-07T09:46:29</date>
+  <millis>1433684789006</millis>
+  <sequence>193</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>42</thread>
+  <message>Got request at 1433684789006</message>
+</record>
+<record>
+  <date>2015-06-07T09:46:29</date>
+  <millis>1433684789008</millis>
+  <sequence>194</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>42</thread>
+  <message>{}</message>
+</record>
+<record>
+  <date>2015-06-07T09:46:29</date>
+  <millis>1433684789011</millis>
+  <sequence>195</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>42</thread>
+  <message>{body=, category=Hair, title= I want to dye my light /silver hair to an darker grey what do i use? Can't find a grey dye, that's crazy?, qid=YA:20150607064558AA0X007}</message>
+</record>
+<record>
+  <date>2015-06-07T09:46:29</date>
+  <millis>1433684789015</millis>
+  <sequence>196</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>42</thread>
+  <message>QID: YA:20150607064558AA0X007
+TITLE:  I want to dye my light /silver hair to an darker grey what do i use? Can't find a grey dye, that's crazy?
+BODY: 
+CATEGORY: Hair
+</message>
+</record>
+<record>
+  <date>2015-06-07T09:46:29</date>
+  <millis>1433684789019</millis>
+  <sequence>197</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>42</thread>
+  <message>Response: my answer; Resources: resource1,resource2</message>
+</record>
+<record>
+  <date>2015-06-07T09:46:29</date>
+  <millis>1433684789020</millis>
+  <sequence>198</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>42</thread>
+  <message>Internal time logged: 14</message>
+</record>
+<record>
+  <date>2015-06-07T09:49:45</date>
+  <millis>1433684985982</millis>
+  <sequence>199</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>43</thread>
+  <message>Got request at 1433684985982</message>
+</record>
+<record>
+  <date>2015-06-07T09:49:45</date>
+  <millis>1433684985983</millis>
+  <sequence>200</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>43</thread>
+  <message>{}</message>
+</record>
+<record>
+  <date>2015-06-07T09:49:45</date>
+  <millis>1433684985985</millis>
+  <sequence>201</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>43</thread>
+  <message>{body=, category=Hair, title= Is there grey dye anywhere?, qid=YA:20150607064702AABBGxu}</message>
+</record>
+<record>
+  <date>2015-06-07T09:49:45</date>
+  <millis>1433684985986</millis>
+  <sequence>202</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>43</thread>
+  <message>QID: YA:20150607064702AABBGxu
+TITLE:  Is there grey dye anywhere?
+BODY: 
+CATEGORY: Hair
+</message>
+</record>
+<record>
+  <date>2015-06-07T09:49:45</date>
+  <millis>1433684985989</millis>
+  <sequence>203</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>43</thread>
+  <message>Response: my answer; Resources: resource1,resource2</message>
+</record>
+<record>
+  <date>2015-06-07T09:49:45</date>
+  <millis>1433684985990</millis>
+  <sequence>204</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>43</thread>
+  <message>Internal time logged: 8</message>
+</record>
+<record>
+  <date>2015-06-07T09:52:51</date>
+  <millis>1433685171975</millis>
+  <sequence>205</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>44</thread>
+  <message>Got request at 1433685171975</message>
+</record>
+<record>
+  <date>2015-06-07T09:52:51</date>
+  <millis>1433685171977</millis>
+  <sequence>206</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>44</thread>
+  <message>{}</message>
+</record>
+<record>
+  <date>2015-06-07T09:52:51</date>
+  <millis>1433685171980</millis>
+  <sequence>207</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>44</thread>
+  <message>{body=I'm not from America, category=Basketball, title= How to play center? And also how do I get into watching basketball?, qid=YA:20150607065151AARaJ8d}</message>
+</record>
+<record>
+  <date>2015-06-07T09:52:51</date>
+  <millis>1433685171983</millis>
+  <sequence>208</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>44</thread>
+  <message>QID: YA:20150607065151AARaJ8d
+TITLE:  How to play center? And also how do I get into watching basketball?
+BODY: I'm not from America
+CATEGORY: Basketball
+</message>
+</record>
+<record>
+  <date>2015-06-07T09:52:51</date>
+  <millis>1433685171987</millis>
+  <sequence>209</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>44</thread>
+  <message>Response: my answer; Resources: resource1,resource2</message>
+</record>
+<record>
+  <date>2015-06-07T09:52:51</date>
+  <millis>1433685171988</millis>
+  <sequence>210</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>44</thread>
+  <message>Internal time logged: 13</message>
+</record>
+<record>
+  <date>2015-06-07T09:55:58</date>
+  <millis>1433685358466</millis>
+  <sequence>211</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>45</thread>
+  <message>Got request at 1433685358466</message>
+</record>
+<record>
+  <date>2015-06-07T09:55:58</date>
+  <millis>1433685358467</millis>
+  <sequence>212</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>45</thread>
+  <message>{}</message>
+</record>
+<record>
+  <date>2015-06-07T09:55:58</date>
+  <millis>1433685358470</millis>
+  <sequence>213</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>45</thread>
+  <message>{body=, category=History, title= If I bet $25 on American Pharoah how much did I win?, qid=YA:20150607065555AANmMMB}</message>
+</record>
+<record>
+  <date>2015-06-07T09:55:58</date>
+  <millis>1433685358474</millis>
+  <sequence>214</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>45</thread>
+  <message>QID: YA:20150607065555AANmMMB
+TITLE:  If I bet $25 on American Pharoah how much did I win?
+BODY: 
+CATEGORY: History
+</message>
+</record>
+<record>
+  <date>2015-06-07T09:55:58</date>
+  <millis>1433685358478</millis>
+  <sequence>215</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>45</thread>
+  <message>Response: my answer; Resources: resource1,resource2</message>
+</record>
+<record>
+  <date>2015-06-07T09:55:58</date>
+  <millis>1433685358479</millis>
+  <sequence>216</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>45</thread>
+  <message>Internal time logged: 13</message>
+</record>
+<record>
+  <date>2015-06-07T09:59:01</date>
+  <millis>1433685541287</millis>
+  <sequence>217</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>46</thread>
+  <message>Got request at 1433685541287</message>
+</record>
+<record>
+  <date>2015-06-07T09:59:01</date>
+  <millis>1433685541289</millis>
+  <sequence>218</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>46</thread>
+  <message>{}</message>
+</record>
+<record>
+  <date>2015-06-07T09:59:01</date>
+  <millis>1433685541292</millis>
+  <sequence>219</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>46</thread>
+  <message>{body=I put Burt's bees on, and I find it very helpful, but just curious, is it bad for me?, category=Makeup, title= Should I put lip balm on every day?, qid=YA:20150607065829AAleniS}</message>
+</record>
+<record>
+  <date>2015-06-07T09:59:01</date>
+  <millis>1433685541296</millis>
+  <sequence>220</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>46</thread>
+  <message>QID: YA:20150607065829AAleniS
+TITLE:  Should I put lip balm on every day?
+BODY: I put Burt's bees on, and I find it very helpful, but just curious, is it bad for me?
+CATEGORY: Makeup
+</message>
+</record>
+<record>
+  <date>2015-06-07T09:59:01</date>
+  <millis>1433685541301</millis>
+  <sequence>221</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>46</thread>
+  <message>Response: my answer; Resources: resource1,resource2</message>
+</record>
+<record>
+  <date>2015-06-07T09:59:01</date>
+  <millis>1433685541304</millis>
+  <sequence>222</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>46</thread>
+  <message>Internal time logged: 17</message>
+</record>
+<record>
+  <date>2015-06-07T10:02:07</date>
+  <millis>1433685727678</millis>
+  <sequence>223</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>47</thread>
+  <message>Got request at 1433685727678</message>
+</record>
+<record>
+  <date>2015-06-07T10:02:07</date>
+  <millis>1433685727679</millis>
+  <sequence>224</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>47</thread>
+  <message>{}</message>
+</record>
+<record>
+  <date>2015-06-07T10:02:07</date>
+  <millis>1433685727680</millis>
+  <sequence>225</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>47</thread>
+  <message>{body=What happened to the son he had with that woman, how and why did he die ? Anything significant?, category=History, title= Barabbas by Pär Lagerkvist?, qid=YA:20150607070128AAGtblj}</message>
+</record>
+<record>
+  <date>2015-06-07T10:02:07</date>
+  <millis>1433685727681</millis>
+  <sequence>226</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>FINE</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>47</thread>
+  <message>QID: YA:20150607070128AAGtblj
+TITLE:  Barabbas by Pär Lagerkvist?
+BODY: What happened to the son he had with that woman, how and why did he die ? Anything significant?
+CATEGORY: History
+</message>
+</record>
+<record>
+  <date>2015-06-07T10:02:07</date>
+  <millis>1433685727684</millis>
+  <sequence>227</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>47</thread>
+  <message>Response: my answer; Resources: resource1,resource2</message>
+</record>
+<record>
+  <date>2015-06-07T10:02:07</date>
+  <millis>1433685727685</millis>
+  <sequence>228</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>47</thread>
+  <message>Internal time logged: 7</message>
+</record>
+<record>
+  <date>2015-06-07T10:08:28</date>
+  <millis>1433686108219</millis>
+  <sequence>229</sequence>
+  <log

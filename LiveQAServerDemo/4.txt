@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2015-08-07T02:57:57</date>
+  <millis>1438930677869</millis>
+  <sequence>0</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>75</thread>
+  <message>
+QID: YA:20150806235707AAVbn9V
+TITLE:  Am I anorexic?
+BODY: I don't feel like not eating I just get bored of it. I am super insecure but not to the extent of starving myself. I eat enough but I just get bored of everything about eating. I've noticed my self eat less and less. Does that make me anorexic? Please tell me
+CATEGORY: Diet &amp; Fitness
+</message>
+</record>
+<record>
+  <date>2015-08-07T02:58:54</date>
+  <millis>1438930734135</millis>
+  <sequence>1</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>77</thread>
+  <message>
+QID: YA:20150806235843AATK0qW
+TITLE:  Anyone know any Cool Fun Websites for teens 13-18?
+BODY: 
+CATEGORY: Fashion &amp; Accessories
+</message>
+</record>
+<record>
+  <date>2015-08-07T02:59:50</date>
+  <millis>1438930790643</millis>
+  <sequence>2</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>78</thread>
+  <message>
+QID: YA:20150806235937AA79Nvv
+TITLE:  Major methods to make wellness Care Product use of?
+BODY: There are few of the explanations in the event you wish to even be claimed through the producer of this weight shedding complement the situation doctors don't like it. The producer Phenq claims that without doubt  is enough in use and is made up from all ample add-ons on the other hand it's most commonly no longer licensed from FDA which makes it suspicious that whether or not or not it may be alternatively comfortably proper for use and presents one of the crucial benefits then why FDA does certify it. The producer moreover claims that it can be health practitioners’ side of view that there are few of the ingredients which maybe utilized in its recipe which do not look to be disclosed through the organization. So these add-ons are unsafe for the human wellness. These are the few motives the place scientific gurus do not love this weight shedding product. For more information=&gt;&gt;&gt;&gt;&gt;&gt;&gt; http://www.xinyanlaw.com/phenq-reviews/
+CATEGORY: Alternative Medicine
+</message>
+</record>
+<record>
+  <date>2015-08-07T03:00:47</date>
+  <millis>1438930847327</millis>
+  <sequence>3</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>79</thread>
+  <message>
+QID: YA:20150807000041AAGY9bJ
+TITLE:  Recently Updated to windows 10 and now my minecraft wont work please help.?
+BODY: I got a link to a intel driver checker but it found no updates what do i do.
+CATEGORY: Software
+</message>
+</record>
+<record>
+  <date>2015-08-07T03:01:45</date>
+  <millis>1438930905279</millis>
+  <sequence>4</sequence>
+  <logger>org.trec.liveqa.TrecLiveQaDemoServer</logger>
+  <level>INFO</level>
+  <class>org.trec.liveqa.TrecLiveQaDemoServer</class>
+  <method>serve</method>
+  <thread>80</thread>
+  <message>
+QID: YA:20150807000119AAz3iRG
+TITLE:  What is the difference between the garcinia cambogia from online or the brand in the vitamin isle at walmart?
+BODY: 
+CATEGORY: Diet &amp; Fitness
+</message>
+</record>
+</log>
